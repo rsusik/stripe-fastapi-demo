@@ -53,12 +53,14 @@ pip install -r requirements.txt
 **MacOS / Unix**
 
 ```
+cd server
 python3 server.py
 ```
 
 **Windows (PowerShell)**
 
 ```
+cd server
 python3 server.py
 ```
 
